@@ -6,11 +6,6 @@
 
 [Notion笔记](https://www.notion.so/loyio/15a859989af04ae6aae552f269fa51e8)
 
+</br>
 
-
-
-
-
-
-[《计算机硬件系统设计》]: https://www.icourse163.org/course/HUST-1205809816	"华科计算机硬件系统设计慕课"
-
+WIth [Logisim Evolution](https://github.com/reds-heig/logisim-evolution)
