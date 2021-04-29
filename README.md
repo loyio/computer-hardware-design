@@ -1,6 +1,6 @@
 # computer-hardware-design
 
-华中科技大学慕课 《计算机硬件系统设计》实验文件
+华中科技大学慕课 [《计算机硬件系统设计》](https://www.icourse163.org/course/HUST-1205809816 "华科计算机硬件系统设计慕课")实验文件
 
 实验文档请点击下面链接查看
 
@@ -10,5 +10,7 @@
 
 
 
-[1]: https://www.icourse163.org/course/HUST-1205809816	"华科计算机硬件系统设计"
+
+
+[《计算机硬件系统设计》]: https://www.icourse163.org/course/HUST-1205809816	"华科计算机硬件系统设计慕课"
 
