@@ -14,8 +14,8 @@ WIth [Logisim Evolution](https://github.com/reds-heig/logisim-evolution)
 
 </br>
 
-2021年5月4日  
+[x]第一章
 
+[ ]第二章
 
-
-非常遗憾，此项目暂时停止更新。初试过后重新开启。
+- 时钟跳变问题，从0.9直接跳变到1.9
