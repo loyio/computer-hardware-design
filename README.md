@@ -14,8 +14,8 @@ WIth [Logisim Evolution](https://github.com/reds-heig/logisim-evolution)
 
 </br>
 
-[x]第一章
-
-[ ]第二章
-
-- 时钟跳变问题，从0.9直接跳变到1.9
+- [ x ]第一章
+</br>
+- [  ]第二章
+- [x]时钟跳变问题，从0.9直接跳变到1.9 (已解决)
+- [ ]store指令问题
